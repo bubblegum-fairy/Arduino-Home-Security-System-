@@ -7,9 +7,9 @@
 
 #define SS_PIN 10
 #define RST_PIN 9
-#define IR_PIN 2       // New: Infrared Sensor
-#define FLAME_PIN 3    // New: Flame Sensor
-#define RELAY_PIN 4    // New: Relay Module
+#define IR_PIN 2       // Infrared Sensor
+#define FLAME_PIN 3    // Flame Sensor
+#define RELAY_PIN 4    // Relay Module
 
 // OBJECT INITIALIZATION 
 
