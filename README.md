@@ -7,6 +7,23 @@ I have used an RFID kit with a solenoid lock in this model. Only Authorized pers
 Further more the window of the house is protected by a laser tripwire (constructed with a laser module and a photoresistor). In case of any kind of home invasion or breach, the alarms will ring and the LCD screen will display a warning. The laser system can be turned off by using an authorized RFID tag which will allow the user to ARM / DISARM the laser system.  
 My security system also includes a Flame sensor. If it detects any fire, the lock will open automatically to allow a swift escape; while the buzzer beeps alerting the residents.
 
+## Youtube Videos of The Project : 
+ ## 📺 Hardware Demonstrations & Systematic Walkthroughs
+
+To provide a thorough evaluation of the system design and hardware functionality, the project is structured across two distinct video presentations below:
+
+### 1. Project Overview & Dynamic Failure Modes 
+*A comprehensive brief highlighting system architectures, physical prototype layouts, sensor calibrations, and automated bypass overrides (e.g., automated access state trigger upon flame discovery to enable immediate fire egress).*
+
+[![Watch the Full Walkthrough](https://img.youtube.com/vi/mnSZNR0KuGc/0.jpg).](https://youtu.be/mnSZNR0KuGc)
+
+---
+
+### 2. Live Hardware Execution and Real-Time Testing
+*A continuous, unedited demonstration detailing peripheral updates via the LCD panel, authentic tag access passes, denied-access states, and laser tripwire circuit breaches.*
+
+[![Watch the Operational Demo](https://img.youtube.com/vi/4bXBqOkg4iM/0.jpg)](https://youtu.be/4bXBqOkg4iM)
+
 ## Components Used :
 
 -  RFID kit
